@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://briannaserrano.github.io/links-and-images-odin-/)
 
 
 ## Getting Started
@@ -43,7 +43,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Arístides José Molina Pérez**
+👤 **Brianna Serrano**
 
 - GitHub: [@BriannaSerrano](https://github.com/BriannaSerrano)
 
